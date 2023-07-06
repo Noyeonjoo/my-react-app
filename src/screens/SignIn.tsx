@@ -191,12 +191,12 @@ function SignIn() {
                         Stay signed in
                     </div>
                     <div className="flex space-x-3">
-                        <Link to="/">
+                        <Link to="/example">
                             <div className="text-xs text-gray cursor-pointer">
                                 Find password
                             </div>
                         </Link>
-                        <Link to="/">
+                        <Link to="/example">
                             <BoldText className="text-xs text-gray cursor-pointer">
                                 Sign up
                             </BoldText>

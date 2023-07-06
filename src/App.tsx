@@ -9,7 +9,7 @@ function App() {
             element: <SignIn />,
         },
         {
-            path: "/easy",
+            path: "/example",
             element: <Example />,
         },
     ]);
